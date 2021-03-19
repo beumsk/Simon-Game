@@ -1,2 +1,5 @@
 # Simon-Game
-Play the famous Simon game. Project built during freecodecamp certification with html, css and javascript.
+Play Simon game by remembering the color or sound played in the right order.
+
+TODO:
+* fix audio download delay
